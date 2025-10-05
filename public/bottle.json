@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure",
+    "price": 15,
+    "capacity": "1L",
+    "image": "https://images.unsplash.com/photo-1581579185169-1b8b4b6e0dc4"
+  },
+  {
+    "id": 2,
+    "name": "HydroMax",
+    "price": 20,
+    "capacity": "750ml",
+    "image": "https://images.unsplash.com/photo-1600180758890-6b94519d1a0f"
+  },
+  {
+    "id": 3,
+    "name": "CrystalClear",
+    "price": 25,
+    "capacity": "500ml",
+    "image": "https://images.unsplash.com/photo-1603052875140-0a9188f2f0eb"
+  },
+  {
+    "id": 4,
+    "name": "EcoHydrate",
+    "price": 30,
+    "capacity": "1.5L",
+    "image": "https://images.unsplash.com/photo-1603398741009-3e26f7c60a3a"
+  },
+  {
+    "id": 5,
+    "name": "PureDrop",
+    "price": 10,
+    "capacity": "330ml",
+    "image": "https://images.unsplash.com/photo-1622206195125-59b8a6bcb3de"
+  }
+]
